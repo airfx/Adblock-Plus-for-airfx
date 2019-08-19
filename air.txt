@@ -1,3 +1,16 @@
+[Adblock Plus 2.0]
+! Version: 20190819
+! Title: airfx_time Annoyance List
+! Last modified: 2019/08/19 17:20 +0800
+! Expires: 4 days (update frequency)
+! Homepage: http://airfx.top/
+!
+! License: http://creativecommons.org/licenses/by/3.0/
+! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
+! Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
+! Email (zhouqinplus@gmail.com)
+!--------------------------General blocking filters---------------------------!
+
 115.com##.animate-layer
 115.com##.panel-side
 115.com##.pop-activity
