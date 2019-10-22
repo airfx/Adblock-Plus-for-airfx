@@ -11,6 +11,16 @@
 ! Email (zhouqinplus@gmail.com)
 !--------------------------General blocking filters---------------------------!
 
+!--------------------------btdb.eu AD---------------------------!
+beeashale.club/*
+btdb.eu/glx_14460.js
+bumampaid.club/*
+s10.histats.com/*
+composivel.pro/*
+aptapebog.online/*
+www.reberr.pro/*
+btdb.eu###vpnvpn
+!--------------------------other AD---------------------------!
 115.com##.animate-layer
 115.com##.panel-side
 115.com##.pop-activity
