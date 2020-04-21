@@ -11,6 +11,7 @@
 ! Email (zhouqinplus@gmail.com)
 !--------------------------General blocking filters---------------------------!
 
+! 屏蔽div class 【btdb.io##.bootstrap-iso】
 !--------------------------btdb.eu AD---------------------------!
 beeashale.club/*
 btdb.io/glx_14460.js
@@ -20,6 +21,7 @@ composivel.pro/*
 aptapebog.online/*
 www.reberr.pro/*
 btdb.io###vpnvpn
+btdb.io##.bootstrap-iso
 !--------------------------other AD---------------------------!
 115.com##.animate-layer
 115.com##.panel-side
