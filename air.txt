@@ -13,13 +13,13 @@
 
 !--------------------------btdb.eu AD---------------------------!
 beeashale.club/*
-btdb.eu/glx_14460.js
+btdb.io/glx_14460.js
 bumampaid.club/*
 s10.histats.com/*
 composivel.pro/*
 aptapebog.online/*
 www.reberr.pro/*
-btdb.eu###vpnvpn
+btdb.io###vpnvpn
 !--------------------------other AD---------------------------!
 115.com##.animate-layer
 115.com##.panel-side
@@ -44,16 +44,16 @@ torrentkitty123.com##.more
 torrentkitty123.com##.note
 torrentkitty123.com##.tipsContent
 v.youku.com##a[style="cursor:pointer;position:absolute;width:100%;height:100%;background:url(http://r1.ykimg.com/0510000056C2C2FC67BC3D507007B447) no-repeat;background-position:0 -40px;margin-top:10px;"]
-btdb.in##.right-content
-btdb.in##.ROmETVXvyYPOc1Sj
+btdb.io##.right-content
+btdb.io##.ROmETVXvyYPOc1Sj
 dmm.co.jp##.btn-dsprice02.mg-b12.tx14
 dmm.co.jp##.sect
 javdude.com##.modal-bg
 toceansoft.com##.Lelem
-btdb.to##.right-content
-btdb.to##.ROmETVXvyYPOc1Sj
-btdb.to##.LizUMhxN
-btdb.to#@#div[id^="M200304Composite109019"]
+btdb.io##.right-content
+btdb.io##.ROmETVXvyYPOc1Sj
+btdb.io##.LizUMhxN
+btdb.io#@#div[id^="M200304Composite109019"]
 ##div#M200304Composite109019
 ##*#M200304Composite109019
 moonhug.com##.at4-share addthis_32x32_style atss atss-right addthis-animated slideInRight
