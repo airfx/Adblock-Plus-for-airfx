@@ -13,6 +13,7 @@
 
 ! 屏蔽div class 【btdb.io##.bootstrap-iso】
 !--------------------------btdb.eu AD---------------------------!
+https://btdb.io/btdba.js
 https://itrustzone.site/*
 https://btdb.io/cdn-cgi/apps/head/*.js
 beeashale.club/*
