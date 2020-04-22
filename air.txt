@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20190819
+! Version: 20200422
 ! Title: airfx_time Annoyance List
-! Last modified: 2019/08/19 17:20 +0800
+! Last modified: 2020/04/22 14:20 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: http://airfx.top/
 !
@@ -12,7 +12,9 @@
 !--------------------------General blocking filters---------------------------!
 
 ! 屏蔽div class 【btdb.io##.bootstrap-iso】
-!--------------------------btdb.eu AD---------------------------!
+!--------------------------btdb.io AD---------------------------!
+https://btdb.io/assets/js/lib/moment/moment.min.js
+itrustzone.site*
 https://btdb.io/btdba.js
 https://itrustzone.site/*
 https://btdb.io/cdn-cgi/apps/head/*.js
@@ -126,7 +128,7 @@ xinent.net##.box_img_2col
 xinent.net##.box_txt_1col
 freepik.com##.header-premium.header-premium--bg2
 freepik.com##.spr.spr--internal
-btdb.unblocked.dk###vpnvpn
+btdb.io###vpnvpn
 dnserror.cn/##.*
 dnserror.cn/*
 ||*114so*
@@ -212,8 +214,8 @@ btdb.nocensor.fun/*.js
 s10.histats.com/js15_as.js
 superonclick.com/script/npa3.min.js
 www.reberr.pro/fdb488/nxxorrwdxfik.js
-btdb.unblocked.dk/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
-btdb.unblocked.dk/cdn-cgi/apps/head/eonMsSaWoPGHqHdsBoYDBPjD6UM.js
+btdb.io/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+btdb.io/cdn-cgi/apps/head/eonMsSaWoPGHqHdsBoYDBPjD6UM.js
 beserte.pro/*
 https://s4.histats.com/stats/0.php
 *dtscout.com/*
