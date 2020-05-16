@@ -13,6 +13,7 @@
 
 ! 屏蔽div class 【btdb.io##.bootstrap-iso】
 !--------------------------btdb.io AD---------------------------!
+https://image.xinwenba.net/web/skin/img/picbox-listbg.gif
 https://btdb.io/assets/js/lib/moment/moment.min.js
 itrustzone.site*
 https://btdb.io/btdba.js
