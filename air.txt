@@ -12,6 +12,7 @@
 !--------------------------General blocking filters---------------------------!
 
 ! 屏蔽div class 【btdb.io##.bootstrap-iso】
+class="survey-container"
 !--------------------------btdb.io AD---------------------------!
 https://image.xinwenba.net/web/skin/img/picbox-listbg.gif
 https://btdb.io/assets/js/lib/moment/moment.min.js
@@ -28,6 +29,7 @@ aptapebog.online/*
 www.reberr.pro/*
 btdb.io###vpnvpn
 btdb.io##.bootstrap-iso
+layfjr.com##.survey-container
 !--------------------------other AD---------------------------!
 115.com##.animate-layer
 115.com##.panel-side
