@@ -12,7 +12,6 @@
 !--------------------------General blocking filters---------------------------!
 
 ! 屏蔽div class 【btdb.io##.bootstrap-iso】
-class="survey-container"
 !--------------------------btdb.io AD---------------------------!
 https://image.xinwenba.net/web/skin/img/picbox-listbg.gif
 https://btdb.io/assets/js/lib/moment/moment.min.js
