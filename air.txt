@@ -13,6 +13,20 @@
 
 ! 屏蔽div class 【btdb.io##.bootstrap-iso】
 !--------------------------btdb.io AD---------------------------!
+flaticon.com##.premium-autop
+zhipin.com##.smallbanner
+flaticon.com###bn-icon-list
+flaticon.com##.bn-space.a-wrapper.edge-content.edge-content-icon-list.edge-content-first
+||jdbimgs.com/zzs/ttqp_200x80.gif
+||jdbimgs.com/zzs/sejie*.jpg
+||jdbimgs.com/zzs/*.jpg
+||jdbimgs.com/zzs/*.gif
+||imgpub.chuangkit.com/sys/front/ckt-watermark-v3.png
+||images-na.ssl-images-amazon.com/images/G/01/US-hq/2021/img/Amazon_Exports/XCM_CUTTLE_1351600_1786074_US_650x45_zh_TW._CB645641490_.jpg
+||jokerlu8.com/upload/vod/20220121-1/*.gif
+||jokerlu8.com/*.gif
+https://yuleba.org/##.box_img_6col
+https://yuleba.org/##.right
 https://image.xinwenba.net/web/skin/img/picbox-listbg.gif
 https://btdb.io/assets/js/lib/moment/moment.min.js
 itrustzone.site*
