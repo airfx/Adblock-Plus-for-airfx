@@ -26,7 +26,12 @@ flaticon.com##.bn-space.a-wrapper.edge-content.edge-content-icon-list.edge-conte
 ||jokerlu8.com/upload/vod/20220121-1/*.gif
 ||jokerlu8.com/*.gif
 https://yuleba.org/##.box_img_6col
-https://yuleba.org/##.right
+yuleba.org##.right
+||aixianger.net/*.gif
+||yp77929.com/TPxl/960x60xin1.gif
+||ad.xmmnsl.com/uploads/images/1618672096.gif
+||cornpic.com/images/2021/08/25/5.gif
+||img13.360buyimg.com/ddimg/jfs/t1/189774/17/4466/305793/60a85a99E9fe101dd/f6c34f2369d001f4.gif
 https://image.xinwenba.net/web/skin/img/picbox-listbg.gif
 https://btdb.io/assets/js/lib/moment/moment.min.js
 itrustzone.site*
