@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Version: 20200422
 ! Title: airfx_time Annoyance List
-! Last modified: 2020/04/22 14:20 +0800
+! Last modified: 2022/06/07 10:20 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: http://airfx.top/
 !
@@ -80,7 +80,7 @@ https://btdb.io/assets/js/lib/moment/moment.min.js
 itrustzone.site*
 https://btdb.io/btdba.js
 https://itrustzone.site/*
-https://btdb.io/cdn-cgi/apps/head/*.js
+https://btsow.bar/cdn-cgi/apps/head/*.js
 beeashale.club/*
 btdb.io/glx_14460.js
 bumampaid.club/*
