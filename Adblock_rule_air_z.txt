@@ -38,8 +38,8 @@ freepik.com###campaign-christmas-landing
 freepik.com##.notification.notify.notify--banner.notification--static.notification--no-shadow.notification--no-border.notification--hide-disable.mg-none-i.notification--show
 bilibili.com###entryOld
 bilibili.com##.guide.report-wrap-module.report-scroll-module
-btsow.*##.tags-box.hidden-xs
-btsow.*##.pull-right.ishare
+btsow.bar##.tags-box.hidden-xs
+btsow.bar##.pull-right.ishare
 flaticon.com##.premium-autop
 zhipin.com##.smallbanner
 flaticon.com###bn-icon-list
