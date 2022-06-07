@@ -13,6 +13,49 @@
 
 ! 屏蔽div class 【btdb.io##.bootstrap-iso】
 !--------------------------btdb.io AD---------------------------!
+flaticon.com###banner-fruits
+flaticon.com##.notification.notify.notify--banner.notification--static.notification--no-shadow.notification--no-border.notification--hide-disable.mg-none-i.modal--banner.banner--quechua.notification--show
+rongweiit.com##.nb-invite-body.nb-invite-skin-0
+wenku.baidu.com##.expand-part
+blog.csdn.net##div[style="width:100%; height:100%; background-image: url(https://img-bss.csdn.net/1610683242960.png); background-size: auto 80px;background-repeat: no-repeat; background-position: center center;"]
+blog.csdn.net##.toolbar-advert-default
+csdn.net##div[style="width:100%; height:100%; background-image: url(https://img-bss.csdn.net/1610683242960.png); background-size: auto 80px;background-repeat: no-repeat; background-position: center center;"]
+csdn.net##.toolbar-advert-default
+||skin.huitu.com/images/event/package-wwwad.png
+||117.22.255.118:8912/fengdongechart/img/bgdMp4.mp4
+||img-bss.csdnimg.cn/1610683242960.png
+||ydstatic.com*
+||gw.alicdn.com/mt/TB1WAqBPFXXXXbUXXXXXXXXXXXX-480-340.png
+freepik.com##.christmas-banner.christmas-banner--freepik.show
+freepik.com###shutterstock-coupon-popup
+freepik.com##.content.paragraph-readable--xs.pd-lv2
+freepik.com###shutterstock-coupon
+freepik.com##.notification.notify.notify--banner.notification--hide-disable.bg__background--secondary.notification--show
+freepik.com###banner-wintersale
+freepik.com##.notification.notify.notify--banner.notification--static.notification--no-shadow.notification--no-border.notification--hide-disable.mg-none-i.modal--banner.notification--show
+freepik.com##.nostyle.medium
+freepik.com###campaign-christmas-landing
+freepik.com##.notification.notify.notify--banner.notification--static.notification--no-shadow.notification--no-border.notification--hide-disable.mg-none-i.notification--show
+bilibili.com###entryOld
+bilibili.com##.guide.report-wrap-module.report-scroll-module
+btsow.*##.tags-box.hidden-xs
+btsow.*##.pull-right.ishare
+flaticon.com##.premium-autop
+zhipin.com##.smallbanner
+flaticon.com###bn-icon-list
+flaticon.com##.bn-space.a-wrapper.edge-content.edge-content-icon-list.edge-content-first
+javdb.com##.top-meta
+||jdbimgs.com/zzs/ttqp_200x80.gif
+||jdbimgs.com/zzs/sejie*.jpg
+||jdbimgs.com/zzs/*.jpg
+||jdbimgs.com/zzs/*.gif
+||imgpub.chuangkit.com/sys/front/ckt-watermark-v3.png
+||images-na.ssl-images-amazon.com/images/G/01/US-hq/2021/img/Amazon_Exports/XCM_CUTTLE_1351600_1786074_US_650x45_zh_TW._CB645641490_.jpg
+||jokerlu8.com/upload/vod/20220121-1/*.gif
+||jokerlu8.com/*.gif
+https://yuleba.org/##.box_img_6col
+https://yuleba.org/##.right
+xinwenba.net##.web
 flaticon.com##.premium-autop
 zhipin.com##.smallbanner
 flaticon.com###bn-icon-list
